@@ -170,6 +170,7 @@ body {
   height: 10.8vw;
   border: 0.4vw solid #432316;
   border-radius: 50%;
+  /* I love version control systems speciall a hub!!!*/
   box-shadow: inset 0.3vw 0.3vw 0 #E9A589, inset -0.3vw -0.3vw 0 #FFF6EF, inset -0.3vw 0.3vw 0 #E9A589, inset 0.3vw -0.3vw 0 #FFF6EF;
 }
 .bicy__wheel-l::before, .bicy__wheel-l::after, .bicy__wheel-r::before, .bicy__wheel-r::after {
@@ -491,6 +492,7 @@ body {
   height: 3.2vw;
   border-radius: 50%;
   background-image: linear-gradient(to bottom, #D45029, #8C1D0B);
+  /* You still Unable to find it out!!!*/
   border-bottom: 0.25vw solid #8C1D0B;
 }
 .human__nose {
@@ -725,6 +727,7 @@ body {
   height: 4.5vw;
   transform-origin: top left;
   transform: rotateZ(-25deg);
+  /*Its GitHub Buddy, I love GitHub!*/
   background-image: linear-gradient(100deg, #B35644 1.55vw, transparent 1.55vw);
 }
 .human__arm-r-a::before {
@@ -976,6 +979,7 @@ body {
   right: 7vw;
   background-color: #d02323;
   transform: rotateZ(-50deg);
+  /*iamchallengingu*/
   animation: heart 6s infinite linear,heart-opacity 6s infinite linear;
 }
 .heart::before, .heart::after {
@@ -1177,3 +1181,4 @@ body {
     height: 1.2vw;
   }
 }
+/*Connects the dots u have collected*/

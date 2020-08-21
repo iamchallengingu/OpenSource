@@ -1,4 +1,3 @@
 /*
-		Designed by: Svitlana Dudarenko
-		Original image: https://dribbble.com/shots/5592525-Partners-in-crime
+		I am your flag Buddy!!! WW91IHdlcmUgY2hlYXRlZCwgQnV0IHlvdSBhcmUgZG9pbmcgZ29vZCE=
 */
